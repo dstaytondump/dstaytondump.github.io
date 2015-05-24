@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+Some programmer that wishes that more things online where free.
 
 ### More Information
 
