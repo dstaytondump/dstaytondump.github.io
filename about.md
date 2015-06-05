@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some programmer that wishes that more things online where free.
+Some programmer that wishes that more things online where free. open source all projects so people can enjoy them.
 
 ### More Information
 
