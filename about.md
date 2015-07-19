@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About dstayton
 permalink: /about/
 ---
 
@@ -12,4 +12,4 @@ Just a guy trying to find his place in the world.
 
 ### Contact me
 
-[me@dstayton.co](mailto:me@dstayton.co)
+[dstayton@dstayton.com](mailto:dstayton@dstayton.com)
