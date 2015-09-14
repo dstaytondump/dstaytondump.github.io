@@ -37,10 +37,10 @@ share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
-share_googleplus: false
+share_googleplus: true
 share_linkedin: false
 share_digg: false
-share_tumblr: false
+share_tumblr: true
 share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
@@ -55,3 +55,4 @@ sass:
   compressed: true
 gems:
   - jekyll-sitemap
+  - jekyll-feed
