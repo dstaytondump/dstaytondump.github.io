@@ -4,7 +4,7 @@ email:       dstayton@dstayton.com
 author:      dstayton
 description: "Web Developer of fun"
 baseurl:     ""
-url:         "blog.dstayton.com"
+url:         "http://blog.dstayton.com"
 
 # Google analytics
 google_analytics:
