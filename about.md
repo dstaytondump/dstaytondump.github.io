@@ -12,4 +12,4 @@ Just a guy trying to find his place in the world.
 
 ### Contact me
 
-[dstayton@dstayton.com](mailto:dstayton@dstayton.com)
+[me@dstayton.com](mailto:me@dstayton.com)
