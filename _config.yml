@@ -3,7 +3,7 @@ title:       dstayton
 email:       me@dstayton.com
 author:      dstayton
 description: "Web Developer of fun"
-baseurl:     "/blog"
+baseurl:     ""
 url:         "http://blog.dstayton.com"
 
 # Google analytics
