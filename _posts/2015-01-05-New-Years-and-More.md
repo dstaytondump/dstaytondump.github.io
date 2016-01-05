@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+title: New Years and More
+summary: New Years resolutions and blog changes
 ---
 
 So new years happened and I **did not** prepare well ahead of time. I decided to list my new years resolutions for everyone to see:
